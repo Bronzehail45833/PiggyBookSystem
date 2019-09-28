@@ -41,7 +41,7 @@ class Main extends PluginBase implements Listener{
             }
         });
 
-        $form->setTitle("CustomEnchants Shop");
+        $form->setTitle("§l§3BookShop");
 
         $form->addButton($ce->getRarityColor(10) . $this->getNameByData(0));
         $form->addButton($ce->getRarityColor(5) . $this->getNameByData(1));
@@ -55,13 +55,13 @@ class Main extends PluginBase implements Listener{
         if($id){
             switch($data){
                 case 0:
-                    return "Common";
+                    return "§aCommon";
                 case 1:
-                    return "Uncommon";
+                    return "§eUncommon";
                 case 2:
-                    return "Rare";
+                    return "§6Rare";
                 case 3:
-                    return "Mythic";
+                    return "§bMythic";
             }
         }else{
             switch($data){
