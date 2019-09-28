@@ -110,7 +110,7 @@ class Main extends PluginBase implements Listener{
                 $nbt->setString("ceid", (string)$dataid);
                 $item->setCustomName($ce->getRarityColor((int)$this->getNameByData($dataid, false)) . $this->getNameByData($dataid) . C::RESET . C::YELLOW . " Book");
                 foreach($ce->enchants as $id => $data){
-                    if($id == $dataid) $item->setLore([$data[5], "\n" . " \n" . C::GRAY . "Tap ground to get random enchantment"]);
+                    if($id == $dataid) $item->setLore([$data[5], "\n" . " \n" . C::GRAY . "§bTap ground to get random custom enchantment"]);
                 }
                 $sender->getInventory()->addItem($item);
                 $sender->addXp(-$this->getCost($dataid));
