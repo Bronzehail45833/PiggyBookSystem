@@ -1,5 +1,7 @@
 # PiggyBookSystem
 
+Disclaimer: I am not the creator of this plugin I just fixed it the original author is goldentouch74.
+
 This is an advanced PiggyCustomEnchants Shop Plugin.
 
 This plugin allows you to purchase enchants of different rarity.
