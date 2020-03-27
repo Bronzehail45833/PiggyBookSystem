@@ -6,4 +6,4 @@ author: GoldenTouch74
 depend: [PiggyCustomEnchants]
 commands:
   ceshop:
-    description: "Open CustomEnchants Shop"
+    description: "Opens PiggyCustomEnchants Shop"
