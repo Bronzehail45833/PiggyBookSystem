@@ -2,7 +2,7 @@ name: PiggyBookSystem
 version: 1.2
 api: 3.11.0
 main: goldentouch74\BookSystem\Main
-author: GoldenTouch74
+author: GoldenTouch74, Bronzehail
 depend: [PiggyCustomEnchants]
 commands:
   ceshop:
