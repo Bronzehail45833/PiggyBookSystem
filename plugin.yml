@@ -1,9 +1,0 @@
-name: BookSystem
-version: 1.0.6
-api: 3.0.0
-main: Bronzehail\BookSystem\Main
-author: Bronzehail
-
-commands:
-  cebook:
-    description: "Opens The BookShop"
