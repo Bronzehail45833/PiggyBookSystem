@@ -1,0 +1,9 @@
+name: PiggyBookSystem
+version: 1.2
+api: 3.11.0
+main: goldentouch74\BookSystem\Main
+author: GoldenTouch74
+depend: [PiggyCustomEnchants]
+commands:
+  ceshop:
+    description: "Open CustomEnchants Shop"
