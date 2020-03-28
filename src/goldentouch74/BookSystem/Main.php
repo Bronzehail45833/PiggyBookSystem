@@ -49,6 +49,7 @@ class Main extends PluginBase implements Listener {
                     if(!is_null($data)) $this->confirm($sender, $data);
                 });
                 $form->setTitle("§aCEShop");
+                $form->setContent("§bCurrent Experience§8:§e ". $sender->getCurrentTotalXp());
                 $form->addButton($this->getNameByData(0));
                 $form->addButton($this->getNameByData(1));
                 $form->addButton($this->getNameByData(2));
