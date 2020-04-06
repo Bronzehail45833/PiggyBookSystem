@@ -1,7 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Bronzehail45833/PiggyCE-Book-System
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Bronzehail45833/PiggyBookSystem
 branches:
 - master
 projects:
-  PiggyCE-Book-System:
+  PiggyBookSystem:
     path: ""
 ...
