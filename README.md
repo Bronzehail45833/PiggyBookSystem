@@ -1,7 +1,7 @@
 # PiggyBookSystem
 ![PiggyBookSystem Banner](https://github.com/Bronzehail45833/PiggyBookSystem/blob/master/Capture.PNG)
 
-> # Disclaimer: I am not the creator of this plugin I just fixed it the original author is goldentouch74.
+> # Disclaimer: I am not the creator of this plugin.This a fixed version of the plugin> the original author is goldentouch74.
 
 This is an advanced PiggyCustomEnchants Shop Plugin.
 
