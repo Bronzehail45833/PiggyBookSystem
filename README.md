@@ -17,7 +17,7 @@ Drag the custom enchanted book onto the item.
 
 Dependencies:
 
-In order for this plugin you will need PiggyCustomEnchants and ForAPI.
+In order for this plugin you will need PiggyCustomEnchants and FormAPI.
 
 # PiggyCustomEnchants- https://poggit.pmmp.io/p/PiggyCustomEnchants
 
